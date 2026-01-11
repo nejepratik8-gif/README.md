@@ -1,1 +1,13 @@
-//sampleText
+# Project Name
+This is a simple project created for learning and practice purpose. It helps in understanding basic concepts and improving skills.
+
+## Built with
+- HTML
+-CSS
+
+##Usage 
+open index.html in your browser to view the project.
+
+## Author
+pratik96k
+GitHub:https://github.com/pratik96k
